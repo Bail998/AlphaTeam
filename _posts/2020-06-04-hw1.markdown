@@ -19,3 +19,54 @@ Eam ad illud constituto, ne urbanitas reprimique qui. Ad duo quas quando vivendo
 Te mea everti platonem sententiae, ius te cibo partem suavitate, at qui quidam urbanitas. Qui inimicus repudiandae ne, nobis vivendo te sea, his alia vivendum in. Vitae imperdiet vis at, eu impetus volutpat expetendis duo. Vel sonet commune ne, aliquid adipisci te vis. Pri in simul rationibus signiferumque, aperiri constituto ei vel.
 
 Et modo dolorem referrentur usu. Exerci lobortis id mei, mel putant everti te. Qui error detraxit te, in vis ignota eripuit scripserit. Ut labore patrioque dissentiet has, feugiat propriae invidunt est ei, mei nostrud volutpat rationibus ei. Mea at graeci tritani, sint mediocrem vituperata no nec. Eu pri mazim vitae ocurreret, iudico graeco consectetuer mel cu, quo dico maiorum ei.
+
+
+
+###新app的功能
+
+已有的中山大学移动端的软件产品、在线服务的功能已经十分完善，但仍然有不少改进空间。
+
+1. 缺乏一个统一的app来执行各种功能，需要关注不同的公众号以及下载中山大学app才能满足各种需求。新app完全可以将这些功能集成在一起。
+2. 有些比较常用的功能，如选课、评教、详细看成绩等功能，只有进教务系统才能使用，比较麻烦。新app中加入这些功能可以方便不少。
+3. 还可以添加一些新的便利生活的功能，比如说空调卡充值、校园大巴预定座位、球场预定等。
+
+就以上三点设想的可改进部分，新的中山大学app设计如下。
+
+app分为四个大模块：学习、生活、娱乐、办事。
+
+#### 学习模块
+
+学习模块的服务可以基本参照“中山大学本科教务系统”中的个人服务以及公共查询服务两部分。如果能将这些服务全搬进新的app中，那么其功能已然比现有的app完善多了，毕竟现有的app只实现了其中的少量部分。需要实现的功能大致如下：
+
+![image-20200531153312494](../assets/images/image-20200531153312494.png)
+
+#### 生活模块
+
+生活模块的服务是现有的一些微信公众号的整合，并在此基础上添加一些新的服务。包括且不限于：
+
+* 校园卡的充值和相关服务
+* 网费的充值和相关服务
+* 水电费的缴纳
+* 物业报修
+* 空调的充值（新），摒弃空调卡，如充值水电费一般直接对对应宿舍进行充值
+* 校园大巴的班次查询及其座位预定（新）
+* 想得再美一点甚至可以来个掌上食堂点餐功能，提前找好座位无需排队，餐备好了app会提醒自取。
+* 一些特殊功能，如现在的学生健康申报等
+
+#### 娱乐模块
+
+各类运动场所的预约和相关可能收费。
+
+#### 办事模块
+
+基本参照“中山大学本科教务系统”中报名申请服务的部分。需要实现的功能大致如下：
+
+![image-20200531153327104](../assets/images/image-20200531153327104.png)
+
+同时，一些无法在线上完成的申请也可留下一个链接，点进去后有一个页面进行相关详细说明，指导用户完成办事。
+
+
+
+####中大人的移动生活攻略
+
+小Z正在宿舍里学习，慢慢地感觉空气燥热了起来，原来是空调没电了。他直接打开中山大学app，选择生活模块，打开空调充值功能对已经记录好的宿舍进行充值，没过一会随着“滴”的一声空调恢复了运转，宿舍又慢慢回复了凉爽。
