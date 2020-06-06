@@ -18,25 +18,25 @@ app分为四个大模块：学习、生活、娱乐、办事。
 
 **日程**  
 主要给让学生们安排规划一下自己活动和学习时间，有带着日历。可以设置哪一天安排学术活动，会议等等其他事件。可以按月周日划分。  
-<img src="{{ site.baseurl }}/assets/images/1.jpg"><img src="{{ site.baseurl }}/assets/images/2.jpg">    
+<img src="{{ site.baseurl }}/assets/images/1.png"><img src="{{ site.baseurl }}/assets/images/2.png">    
 **成绩查询**  
 学生可以自行按学年和学期查询相应课程的成绩。  
-<img src="{{ site.baseurl }}/assets/images/3.jpg">  
+<img src="{{ site.baseurl }}/assets/images/3.png">  
 **一卡通服务**  
 为了能够让学生更方便地管理校园卡里面的资金管理，学生可以查询余额，申请挂失，交易明细等服务。 
-<img src="{{ site.baseurl }}/assets/images/4.jpg">  
+<img src="{{ site.baseurl }}/assets/images/4.png">  
 **失物招领**  
 让所用到app的同学分享自己寻找的东西或帮别人找东西。  
-<img src="{{ site.baseurl }}/assets/images/5.jpg">  
+<img src="{{ site.baseurl }}/assets/images/5.png">  
 **IT服务**  
 IT服务主要为了能够让学生进行管理校园里面提供的网，如交网费，vpn安装 和各种网络问题排查。  
-<img src="{{ site.baseurl }}/assets/images/6.jpg">  
+<img src="{{ site.baseurl }}/assets/images/6.png">  
 **会议**  
 可以查看学校或社团安排的一些会议时间和地点。  
-<img src="{{ site.baseurl }}/assets/images/7.jpg">  
+<img src="{{ site.baseurl }}/assets/images/7.png">  
 **图书馆**  
 图书馆管理，在手机能够查询到自己借用的学校书。  
-<img src="{{ site.baseurl }}/assets/images/8.jpg">    
+<img src="{{ site.baseurl }}/assets/images/8.png">    
 
 
 ## 新app的功能  
