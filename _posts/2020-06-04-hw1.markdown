@@ -16,6 +16,48 @@ app分为四个大模块：学习、生活、娱乐、办事。
 
 ## APP现有功能介绍    
 
+**课程表**
+
+可以以天视图、周视图查看课程。
+
+<img src="{{ site.baseurl }}/assets/images/9.png">
+
+**校园活动**
+
+可供查看学校举办的活动和自己参与的活动
+
+<img src="{{ site.baseurl }}/assets/images/10.png">
+
+<img src="{{ site.baseurl }}/assets/images/11.png">
+
+**校车**
+
+可以查看以周为单位在各大校区往返的班车与岐关车
+
+<img src="{{ site.baseurl }}/assets/images/12.png">
+
+**校历**
+
+提供每个学期的学校日程安排
+
+<img src="{{ site.baseurl }}/assets/images/13.png">
+
+<img src="{{ site.baseurl }}/assets/images/14.png">
+
+**新闻资讯**
+
+可以查看“中大新闻”、“每周聚焦”、“媒体中大”、“科学教研”、“服务社会”、“招生就业”、“视觉中大”、“逸仙论坛”、“中大学人”、“校园生活”、“学子风采”、“校园动态”、“网论精粹”、“高教动态”、“中大青年”等栏目发布的最新动态、新闻等。
+
+<img src="{{ site.baseurl }}/assets/images/15.png">
+
+<img src="{{ site.baseurl }}/assets/images/16.png">
+
+**健康申报**
+
+可用于提交学校的健康申报
+
+<img src="{{ site.baseurl }}/assets/images/17.png">
+
 **日程**  
 主要给让学生们安排规划一下自己活动和学习时间，有带着日历。可以设置哪一天安排学术活动，会议等等其他事件。可以按月周日划分。  
 <img src="{{ site.baseurl }}/assets/images/1.png"><img src="{{ site.baseurl }}/assets/images/2.png">    
