@@ -1,48 +1,97 @@
 ---
-title: 中大APP升级版本
+title: 中大APP升级版本(HW1)
 layout: post
----
-## Lorem ipsum dolor sit amet
+---    
 
-Lorem ipsum dolor sit amet ut paulo aperiam signiferumque quo. Quaeque pertinacia mnesarchum te vel. Ei tollit habemus delectus mel, pro zril cetero adipiscing an. Eius aliquip legimus ad mea, vix te quod eripuit, munere doctus oporteat qui te. Dolore fierent nam ea. Eos ex tale commune moderatius, ei mel malorum suscipit neglegentur. Has quod falli alienum ne.
+## 项目背景和展望  
+已有的中山大学移动端的软件产品、在线服务的功能已经十分完善，但仍然有不少改进空间。  
 
-### Wisi impedit albucius cum no
+1. 缺乏一个统一的app来执行各种功能，需要关注不同的公众号以及下载中山大学app才能满足各种需求。新app完全可以将这些功能集成在一起。  
+2. 有些比较常用的功能，如选课、评教、详细看成绩等功能，只有进教务系统才能使用，比较麻烦。新app中加入这些功能可以方便不少。  
+3. 还可以添加一些新的便利生活的功能，比如说空调卡充值、校园大巴预定座位、球场预定等。  
 
-Wisi impedit albucius cum no. Pri nibh posse in. Tollit copiosae mei at, summo perfecto gubergren cum cu. Pri verterem dissentiet te, error option legendos te ius. Nihil sapientem expetenda in qui, usu no dicit option.
+就以上三点设想的可改进部分，新的中山大学app设计如下。  
 
-#### Eam ad illud constituto
+app分为四个大模块：学习、生活、娱乐、办事。  
 
-Eam ad illud constituto, ne urbanitas reprimique qui. Ad duo quas quando vivendo, insolens accusamus ne vim. Ne vel lorem legimus commune, eam autem laudem ne, oratio cetero voluptatibus in cum. Ea tamquam assueverit philosophia vix, erroribus eloquentiam consectetuer est ea. Enim feugait concludaturque ad ius, ne vel stet placerat.
+## APP现有功能介绍    
 
-##### Te mea everti platonem sententiae
+**课程表**
 
-Te mea everti platonem sententiae, ius te cibo partem suavitate, at qui quidam urbanitas. Qui inimicus repudiandae ne, nobis vivendo te sea, his alia vivendum in. Vitae imperdiet vis at, eu impetus volutpat expetendis duo. Vel sonet commune ne, aliquid adipisci te vis. Pri in simul rationibus signiferumque, aperiri constituto ei vel.
+可以以天视图、周视图查看课程。
 
-Et modo dolorem referrentur usu. Exerci lobortis id mei, mel putant everti te. Qui error detraxit te, in vis ignota eripuit scripserit. Ut labore patrioque dissentiet has, feugiat propriae invidunt est ei, mei nostrud volutpat rationibus ei. Mea at graeci tritani, sint mediocrem vituperata no nec. Eu pri mazim vitae ocurreret, iudico graeco consectetuer mel cu, quo dico maiorum ei.
+<img src="{{ site.baseurl }}/assets/images/9.png">
+
+**校园活动**
+
+可供查看学校举办的活动和自己参与的活动
+
+<img src="{{ site.baseurl }}/assets/images/10.png">
+
+<img src="{{ site.baseurl }}/assets/images/11.png">
+
+**校车**
+
+可以查看以周为单位在各大校区往返的班车与岐关车
+
+<img src="{{ site.baseurl }}/assets/images/12.png">
+
+**校历**
+
+提供每个学期的学校日程安排
+
+<img src="{{ site.baseurl }}/assets/images/13.png">
+
+<img src="{{ site.baseurl }}/assets/images/14.png">
+
+**新闻资讯**
+
+可以查看“中大新闻”、“每周聚焦”、“媒体中大”、“科学教研”、“服务社会”、“招生就业”、“视觉中大”、“逸仙论坛”、“中大学人”、“校园生活”、“学子风采”、“校园动态”、“网论精粹”、“高教动态”、“中大青年”等栏目发布的最新动态、新闻等。
+
+<img src="{{ site.baseurl }}/assets/images/15.png">
+
+<img src="{{ site.baseurl }}/assets/images/16.png">
+
+**健康申报**
+
+可用于提交学校的健康申报
+
+<img src="{{ site.baseurl }}/assets/images/17.png">
+
+**日程**  
+主要给让学生们安排规划一下自己活动和学习时间，有带着日历。可以设置哪一天安排学术活动，会议等等其他事件。可以按月周日划分。  
+<img src="{{ site.baseurl }}/assets/images/1.png"><img src="{{ site.baseurl }}/assets/images/2.png">    
+**成绩查询**  
+学生可以自行按学年和学期查询相应课程的成绩。  
+<img src="{{ site.baseurl }}/assets/images/3.png">  
+**一卡通服务**  
+为了能够让学生更方便地管理校园卡里面的资金管理，学生可以查询余额，申请挂失，交易明细等服务。 
+<img src="{{ site.baseurl }}/assets/images/4.png">  
+**失物招领**  
+让所用到app的同学分享自己寻找的东西或帮别人找东西。  
+<img src="{{ site.baseurl }}/assets/images/5.png">  
+**IT服务**  
+IT服务主要为了能够让学生进行管理校园里面提供的网，如交网费，vpn安装 和各种网络问题排查。  
+<img src="{{ site.baseurl }}/assets/images/6.png">  
+**会议**  
+可以查看学校或社团安排的一些会议时间和地点。  
+<img src="{{ site.baseurl }}/assets/images/7.png">  
+**图书馆**  
+图书馆管理，在手机能够查询到自己借用的学校书。  
+<img src="{{ site.baseurl }}/assets/images/8.png">    
 
 
+## 新app的功能  
 
-### 新app的功能
+#### 学习模块  
 
-已有的中山大学移动端的软件产品、在线服务的功能已经十分完善，但仍然有不少改进空间。
+学习模块的服务可以基本参照“中山大学本科教务系统”中的个人服务以及公共查询服务两部分。如果能将这些服务全搬进新的app中，那么其功能已然比现有的app完善多了，毕竟现有的app只实现了其中的少量部分。需要实现的功能大致如下：  
 
-1. 缺乏一个统一的app来执行各种功能，需要关注不同的公众号以及下载中山大学app才能满足各种需求。新app完全可以将这些功能集成在一起。
-2. 有些比较常用的功能，如选课、评教、详细看成绩等功能，只有进教务系统才能使用，比较麻烦。新app中加入这些功能可以方便不少。
-3. 还可以添加一些新的便利生活的功能，比如说空调卡充值、校园大巴预定座位、球场预定等。
+<img src="{{ site.baseurl }}/assets/images/image-20200531153312494.png">  
 
-就以上三点设想的可改进部分，新的中山大学app设计如下。
+#### 生活模块  
 
-app分为四个大模块：学习、生活、娱乐、办事。
-
-#### 学习模块
-
-学习模块的服务可以基本参照“中山大学本科教务系统”中的个人服务以及公共查询服务两部分。如果能将这些服务全搬进新的app中，那么其功能已然比现有的app完善多了，毕竟现有的app只实现了其中的少量部分。需要实现的功能大致如下：
-
-<img src="{{ site.baseurl }}/assets/images/image-20200531153312494.png">
-
-#### 生活模块
-
-生活模块的服务是现有的一些微信公众号的整合，并在此基础上添加一些新的服务。包括且不限于：
+生活模块的服务是现有的一些微信公众号的整合，并在此基础上添加一些新的服务。包括且不限于：  
 
 * 校园卡的充值和相关服务
 * 网费的充值和相关服务
