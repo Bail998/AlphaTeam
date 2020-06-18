@@ -33,7 +33,6 @@ office 365是很多工具的集合，包括：
 <img src="{{ site.baseurl }}/assets/images/2-2.png">
 
 ##### Trello
-
 ###### 产品特色
 
 - Trello 看板、列表和卡片使你能够以一种有趣、灵活和有益的方式，组织你的项目并划分它们的优先顺序。
@@ -108,40 +107,40 @@ Templates for Trello：提供现成且十分丰富的Trello可选项目模板
 
 - 管理团队：创建团队、添加团队成员
 
-  <img src="{{ site.baseurl }}/assets/images/2.3.jpg">
+  <img src="{{ site.baseurl }}/assets/images/2-3.jpg">
 
-  <img src="{{ site.baseurl }}/assets/images/2.4.jpg">
+  <img src="{{ site.baseurl }}/assets/images/2-4.jpg">
 
 
 - 为项目创建Board（面板）
 
-  <img src="{{ site.baseurl }}/assets/images/2.5.jpg">
+  <img src="{{ site.baseurl }}/assets/images/2-5.jpg">
 
 - 在面板下创建如to、doing、done等list
 
-  <img src="{{ site.baseurl }}/assets/images/2.6.jpg">
+  <img src="{{ site.baseurl }}/assets/images/2-6.jpg">
 
 - 每个list下创建多个Card，Card的命名可以是某项具体的工作，具体的待办条目
 
-  <img src="{{ site.baseurl }}/assets/images/2.7.jpg">
+  <img src="{{ site.baseurl }}/assets/images/2-7.jpg">
 
 - 添加Checklist，用来管理工作进度，如以某项工作的几个关键点为item，完成某个节点时就勾选
 
-  <img src="{{ site.baseurl }}/assets/images/2.8.jpg">
+  <img src="{{ site.baseurl }}/assets/images/2-8.jpg">
 
 - 增加Due Date
 
-  <img src="{{ site.baseurl }}/assets/images/2.9.jpg">
+  <img src="{{ site.baseurl }}/assets/images/2-9.jpg">
 
 - 其他功能
 
-  <img src="{{ site.baseurl }}/assets/images/2.10.jpg">
+  <img src="{{ site.baseurl }}/assets/images/2-10.jpg">
 
 ###### LiquidPlanner
 
 LiquidPlanner的主界面如下：
 
-​	<img src="{{ site.baseurl }}/assets/images/2.11.jpg">
+​	<img src="{{ site.baseurl }}/assets/images/2-11.jpg">
 
 主要免费服务内容有：
 
