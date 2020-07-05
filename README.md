@@ -7,3 +7,4 @@
 
 [博客地址](https://raider2107.github.io/AlphaTeam/)  
 [Markdown tutorial](https://markdowntutorial.com/)    
+[PPT链接](https://github.com/raider2107/AlphaTeam/tree/master/presentation)  
