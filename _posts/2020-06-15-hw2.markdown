@@ -159,4 +159,5 @@ LiquidPlanner的主界面如下：
 - Microsoft是在30天试用期内免费，超过试用期之后就要按年收费。
 - Trello核心功能免费，其他功能收费。免费版里基本功能都有了，但是若想获得更多的功能，则需要收费。付费版里扩充了附件容量、允许上传自定义Emoji、每个任务版支持三个拓展等功能。
 - LiquidPlanner是根据每个工作区的成员人数来确定价格。前三名成员免费，从第四名成员开始计费，但是收费与否，功能都是一样的。  
+
 [PPT链接](https://github.com/raider2107/AlphaTeam/tree/master/presentation)
